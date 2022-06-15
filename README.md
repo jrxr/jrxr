@@ -38,5 +38,5 @@
   <a href="https://t.me/Jr_xrlog" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
   
-![Snake animation](https://github.com/jrxr/jrxr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jrxr/blob/output/github-contribution-grid-snake.svg)
  
